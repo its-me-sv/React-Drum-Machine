@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Drum-Machine/static/css/main.7f60a81a.chunk.css",
+    "main.js": "/React-Drum-Machine/static/js/main.213d4f06.chunk.js",
+    "main.js.map": "/React-Drum-Machine/static/js/main.213d4f06.chunk.js.map",
+    "runtime-main.js": "/React-Drum-Machine/static/js/runtime-main.5b018cdd.js",
+    "runtime-main.js.map": "/React-Drum-Machine/static/js/runtime-main.5b018cdd.js.map",
+    "static/js/2.6ce2f5b2.chunk.js": "/React-Drum-Machine/static/js/2.6ce2f5b2.chunk.js",
+    "static/js/2.6ce2f5b2.chunk.js.map": "/React-Drum-Machine/static/js/2.6ce2f5b2.chunk.js.map",
+    "static/js/3.ffd7932b.chunk.js": "/React-Drum-Machine/static/js/3.ffd7932b.chunk.js",
+    "static/js/3.ffd7932b.chunk.js.map": "/React-Drum-Machine/static/js/3.ffd7932b.chunk.js.map",
+    "index.html": "/React-Drum-Machine/index.html",
+    "static/css/main.7f60a81a.chunk.css.map": "/React-Drum-Machine/static/css/main.7f60a81a.chunk.css.map",
+    "static/js/2.6ce2f5b2.chunk.js.LICENSE.txt": "/React-Drum-Machine/static/js/2.6ce2f5b2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Drum-Machine/static/media/PottaOne-Regular.ef127180.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b018cdd.js",
+    "static/js/2.6ce2f5b2.chunk.js",
+    "static/css/main.7f60a81a.chunk.css",
+    "static/js/main.213d4f06.chunk.js"
+  ]
+}
